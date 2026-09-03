@@ -8,7 +8,7 @@
 :root {
   /* Brend ranglari (mijoz tomonidan berilgan) */
   --color-teal: rgb(0, 156, 135);     /* navbar, ramka, chiziqlar */
-  --color-olive: rgb(147, 158, 0);    /* tugmalar, ramka */
+  --color-olive: #70C042;    /* tugmalar, ramka */
   --color-gray: rgb(197, 197, 197);   /* ikkinchi darajali matn, rasm o'rinbosarlari */
   --color-dark: rgb(22, 13, 13);      /* asosiy matn */
   --color-cream: rgb(250, 244, 231);  /* qaymoq rang — sahifa foni (body) */
